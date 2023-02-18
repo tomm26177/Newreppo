@@ -1,0 +1,6 @@
+
+*.class
+bin/
+.classpath
+java_git_program_2.18.2023/.idea/
+java_git_program_2.18.2023/java_git_program_2.18.2023.iml
